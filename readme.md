@@ -46,3 +46,30 @@ button in the pubspec.yaml file.
 
 **Some attached Screenshots of the programme**
 
+a) Home Page
+
+
+![Home Page](https://github.com/Anubhav9/Zomentum-v1/blob/master/images/Screenshot_2020-08-30_23-46-07.png)
+
+
+b) Ticket Booking Page
+
+
+![Ticket Booking Page](https://github.com/Anubhav9/Zomentum-v1/blob/master/images/Screenshot_2020-08-30_23-46-38.png)
+
+
+c)  Successfull Ticket Generation Page
+
+
+![Successfull Ticket Generation](https://github.com/Anubhav9/Zomentum-v1/blob/master/images/Screenshot_2020-08-30_23-46-46.png)
+
+d) User Info Page
+
+![User Info Page](https://github.com/Anubhav9/Zomentum-v1/blob/master/images/Screenshot_2020-08-30_23-50-49.png)
+
+e) Ticket for a Particular Time Page
+
+![Details](https://github.com/Anubhav9/Zomentum-v1/blob/master/images/Screenshot_2020-08-30_23-51-34.png)
+
+
+

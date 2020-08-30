@@ -93,4 +93,7 @@ e) Ticket for a Particular Time Page
 ![Screenshot3](https://github.com/Anubhav9/Zomentum-v1/blob/master/images/Screenshot_2020-08-30_18-08-30.png)
 
 
+I sincerely hope you liked the project. If there are any issues, please feel free to open them in the issue tab. If you like this repository, don't forget to star it.
+
+
 

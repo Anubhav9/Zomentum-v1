@@ -1,8 +1,14 @@
-Hello Everyone!
+<h1>Zomentum Movie Threatre Based Ticketing System</h1>
 
-This is made for Zomentum Hiring Assesment Challenge 2020 (Backend) held at Jaypee Institute of Information Technology, Noida.
+*This is made for Zomentum Hiring Assesment Challenge 2020 (Backend) held at Jaypee Institute of Information Technology, Noida*
 
-**Tech Stack Used by the Developer are as follows**
+<h3>Hello Everyone!</h3>
+
+**Please visit this website where this project is hosted to get a clear understanding of its working: https://anubhav9.github.io/Zomentum-v1/#/**
+
+
+
+**<h2>Tech Stack Used by the Developer are as follows</h2>**
 
 a) Dart as Programming Language
 
@@ -10,7 +16,7 @@ b) Flutter as the Framework
 
 c) Google Firebase/Firestore as the Backend Component
 
-**The version 1 (v1) of the Programme supports the following test cases:**
+**<h2>The version 1 (v1) of the Programme supports the following test cases:<h2>**
 
 a) Enable a user to book a ticket using his/her name, phone number and at the preferred time.
 
@@ -25,7 +31,7 @@ e) Get a list of all the users who have booked the ticket at a particular time.
 f) Mark the ticket as expired after 8 hrs.
 
 
-**Steps on how to run the programme**
+**<h2>Steps on how to run the programme<h2>**
 
 The programme has been hosted on Github Pages at the following link. Please click on the link given below and migrate to the website. It is recommended that you view
 
@@ -43,8 +49,14 @@ Open the main.dart file and in the Android Studio Terminal, run the command, 'fl
 
 button in the pubspec.yaml file.
 
+**<h2>Some explaination on how this programme is working</h2>**
 
-**Some attached Screenshots of the programme**
+This is basically a use case of CRUD in databases. Firestore which is a NoSQL database is used in this project. The queries are similar to the normal DBMS queries
+
+that we generally write. It is a realtime database hence the changes are visible in Real Time.
+
+
+**<h2>Some attached Screenshots of the programme</h2>**
 
 a) Home Page
 
@@ -70,6 +82,15 @@ d) User Info Page
 e) Ticket for a Particular Time Page
 
 ![Details](https://github.com/Anubhav9/Zomentum-v1/blob/master/images/Screenshot_2020-08-30_23-51-34.png)
+
+
+**<h2>We were also asked to provide the Screenshots of Postman. Attaching the Screenshot below for reference</h2>**
+
+![Screenshot1](https://github.com/Anubhav9/Zomentum-v1/blob/master/images/Screenshot_2020-08-30_18-08-10.png)
+
+![Screenshot2](https://github.com/Anubhav9/Zomentum-v1/blob/master/images/Screenshot_2020-08-30_17-29-11.png)
+
+![Screenshot3](https://github.com/Anubhav9/Zomentum-v1/blob/master/images/Screenshot_2020-08-30_18-08-30.png)
 
 
 

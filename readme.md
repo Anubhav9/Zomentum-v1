@@ -31,7 +31,7 @@ e) Get a list of all the users who have booked the ticket at a particular time.
 f) Mark the ticket as expired after 8 hrs.
 
 
-**<h2>Steps on how to run the programme<h2>**
+<h2>Steps on how to run the programme<h2>
 
 The programme has been hosted on Github Pages at the following link. Please click on the link given below and migrate to the website. It is recommended that you view
 
@@ -49,14 +49,14 @@ Open the main.dart file and in the Android Studio Terminal, run the command, 'fl
 
 button in the pubspec.yaml file.
 
-**<h2>Some explaination on how this programme is working</h2>**
+<h2>Some explaination on how this programme is working</h2>
 
 This is basically a use case of CRUD in databases. Firestore which is a NoSQL database is used in this project. The queries are similar to the normal DBMS queries
 
 that we generally write. It is a realtime database hence the changes are visible in Real Time.
 
 
-**<h2>Some attached Screenshots of the programme</h2>**
+<h2>Some attached Screenshots of the programme</h2>
 
 a) Home Page
 
@@ -84,7 +84,7 @@ e) Ticket for a Particular Time Page
 ![Details](https://github.com/Anubhav9/Zomentum-v1/blob/master/images/Screenshot_2020-08-30_23-51-34.png)
 
 
-**<h2>We were also asked to provide the Screenshots of Postman. Attaching the Screenshot below for reference</h2>**
+<h2>We were also asked to provide the Screenshots of Postman. Attaching the Screenshot below for reference</h2>
 
 ![Screenshot1](https://github.com/Anubhav9/Zomentum-v1/blob/master/images/Screenshot_2020-08-30_18-08-10.png)
 

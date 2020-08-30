@@ -8,7 +8,7 @@
 
 
 
-**<h2>Tech Stack Used by the Developer are as follows</h2>**
+<h2>Tech Stack Used by the Developer are as follows</h2>
 
 a) Dart as Programming Language
 
@@ -16,7 +16,7 @@ b) Flutter as the Framework
 
 c) Google Firebase/Firestore as the Backend Component
 
-**<h2>The version 1 (v1) of the Programme supports the following test cases:<h2>**
+<h2>The version 1 (v1) of the Programme supports the following test cases:</h2>
 
 a) Enable a user to book a ticket using his/her name, phone number and at the preferred time.
 
@@ -31,7 +31,7 @@ e) Get a list of all the users who have booked the ticket at a particular time.
 f) Mark the ticket as expired after 8 hrs.
 
 
-<h2>Steps on how to run the programme<h2>
+<h2>Steps on how to run the programme</h2>
 
 The programme has been hosted on Github Pages at the following link. Please click on the link given below and migrate to the website. It is recommended that you view
 

@@ -1,16 +1,6 @@
-# zomentum_hiring
+# Zomentum Hiring Assesment
 
-A new Flutter application.
+<h2>The Project is hosted at : https://anubhav9.github.io/Zomentum-v1/#/</h2>
+<h3>Please visit this page to clear working idea of my project</h3>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
